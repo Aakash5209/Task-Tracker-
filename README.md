@@ -17,7 +17,15 @@ Mark tasks as complete or delete them as needed.
 
 Tasks are saved locally, providing persistence across sessions.
 # Technologies Used
+HTML
 CSS
 JavaScript
-![Screenshot (264)](https://github.com/Aakash5209/Task-Tracker-/assets/56769552/8366ca72-b3f8-464b-93bf-437db9922152)
+
+![Screenshot (268)](https://github.com/Aakash5209/Task-Tracker-/assets/56769552/f426e4a5-df50-4f5d-98b9-5f84bf7ef239)
+
 ![Screenshot (266)](https://github.com/Aakash5209/Task-Tracker-/assets/56769552/a0d03737-e966-4b6b-bcca-9a0e231175cb)
+
+![Screenshot (264)](https://github.com/Aakash5209/Task-Tracker-/assets/56769552/8366ca72-b3f8-464b-93bf-437db9922152)
+
+
+
